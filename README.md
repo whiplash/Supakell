@@ -11,4 +11,4 @@
 
 humble attempt for a Haskell Supabase client.
 
-~~~ WIP ~~~
+WIP
