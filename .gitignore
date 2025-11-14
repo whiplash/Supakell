@@ -1,0 +1,11 @@
+.stack-work/
+dist/
+dist-*/
+*.hi
+*.o
+/*.cabal-sandbox
+/.ghc.environment.*
+.stack-work/
+.vscode/
+.idea/
+
