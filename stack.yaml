@@ -1,5 +1,7 @@
 resolver: lts-24.19
 packages:
 - .
-extra-deps: []
+extra-deps:
+  - dotenv-0.12.0.0
+  - data-default-class-0.1.2.2@sha256:51400ed341ec87e86a4acf83301c6890e1fc67708e2d0ac519d48e0a14f54c15,1309  
 

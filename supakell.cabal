@@ -12,7 +12,8 @@ build-type:          Simple
 
 library
   exposed-modules:
-      Supakell.Client
+      Supakell
+    , Supakell.Client
     , Supakell.Query
     , Supakell.Types
   hs-source-dirs:      src
@@ -26,5 +27,7 @@ library
     , bytestring
     , http-client
     , http-client-tls
+    , http-types
     , containers
+    , dotenv
 
